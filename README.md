@@ -18,7 +18,7 @@ Postaway is a social media platform API built using Express.js, designed to enab
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/shouvikbj/postaway-api.git
+    git clone https://github.com/thakurshardul/postaway-api.git
     cd postaway-api
     ```
 
